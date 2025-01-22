@@ -3,7 +3,7 @@
 - Estado del proyecto: Terminado.
 
 Para ejecutar el proyecto debes ingresar al enlace: 
-https://github.com/alejandrorodcas/challenge-amigo-secreto_esp-main.git 
+https://http://127.0.0.1:5500/index.html
 
 Para alguna modificación en el código debes ingresar al archivo app.js
 
